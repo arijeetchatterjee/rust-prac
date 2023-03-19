@@ -1,0 +1,9 @@
+/Users/arijeetchatterjee/Documents/github_personal_projects/rust/rust-prac/rest_api_basic/target/debug/deps/httparse-998ffc0c2448f7b3.rmeta: /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/arijeetchatterjee/Documents/github_personal_projects/rust/rust-prac/rest_api_basic/target/debug/deps/httparse-998ffc0c2448f7b3.d: /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs:
+/Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs:
+/Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs:
+/Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs:
+/Users/arijeetchatterjee/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs:
